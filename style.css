@@ -1,0 +1,345 @@
+
+
+
+*{
+    margin:0px;
+}
+/* <!-- box1 --> */
+.navbar{
+    height:72px;
+    background-color:white;
+    display:flex;
+justify-content:space-evenly;
+ align-items: center;
+ font-size: 16px;
+ border-bottom: 1px solid black;
+
+}
+.nextline{
+
+ border-bottom: 1px solid black;
+}
+
+
+
+.navbar-content{
+    height:70px;
+    width:200px;
+}
+.logo{
+    height: 70px;
+    width: 100%;
+background-image: url(Meesho.jpg);
+background-size:cover;
+
+}
+
+/* box2 */
+.search{
+    height:42px;
+    width:450px;
+
+}
+.as{  height:42px;
+    width:100%;
+display:center;
+border-radius:2px;
+}
+
+/* <!-- box3 --> */
+.moblie-app{
+    display:flex;
+}
+
+/* <!-- box4--> */
+
+
+/* box5 */
+.cartlogo{
+  font-size :20px;
+}
+
+
+/* box6 */
+.nextline{
+    height: 52px;
+    background-color:white;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+/* } */
+
+/* <!-- contentbox --> */
+
+
+.content-line{
+   font-size:48px ;
+   background-color:#f8f8ff;
+   width:100%
+   
+
+}
+
+
+    .MAN{
+        display:flex;
+        height: 350px;
+        width:600px;
+        padding: 40px 45px 40px 48px;
+        margin:0px 0px 0px 80px;
+
+    }
+.ft{
+    height: 58px;
+    width: 494px; 
+     display:flex;
+     justify-content: space-evenly;
+   margin:25px 0px 25px;
+
+     
+
+}
+
+    .liness{
+        display:flex;
+        font-size: 16px;
+        padding: 9px 16px;
+      margin:0px;
+       
+    }
+    .outer p{
+        justify-content: space-evenly;
+    }
+
+
+
+
+
+
+
+
+
+
+.download{
+    background-color:#9C248C;
+    height:25px;
+    width:240px;
+    font-size:16px;
+    color:white;
+  padding: 10px 28px;
+  margin:30px 0px 0px;
+   
+}
+
+.f{
+    justify-content: center;
+    align-items: center;
+}
+/* <!-- iamge --> */
+
+
+.content-image{
+    height:350px ;
+    width: 600px;
+    background-image:url(c.webp);
+    /* padding: 40px 45px 40px 48px; */
+    margin-top: 40px;
+    background-size: cover;
+}
+.women{
+    display:flex;
+    margin: 0px 0px 0px 110px;
+
+}
+.line{
+    height: 44px;
+    width: 543px;
+    text-align: center;
+    justify-content: center;
+    font-size: 36px;
+    margin-left:30%;
+}
+/* last */
+.last-line{
+    height: 350px;
+    width:100%;
+    background-color:#f8f8ff;
+    display: flex;
+    align-items: center;
+    margin-top:30px
+    
+   
+}
+ul{
+    color:#616173;
+}
+.boxA{
+    height: 200px;
+    width:90%;
+    background-color:#f8f8ff;
+    margin-left: 110px;
+    padding: 60px 0px ; 
+    display:flex;
+    justify-content: space-evenly;
+}
+   
+  .heading{
+    font-size: 32px;
+    margin:0px 0px 16px;
+    color: black;
+  }
+  .k{
+   margin: 0px 0px 32px;
+  }
+  .l{
+    display:flex
+  }
+
+
+
+  .po{
+font-weight: bold;
+margin: 0px 0px 16px;
+font-size: 20px;
+color:black
+  }
+    .ji{
+        font-size: 18px;
+    }
+
+    .photo-content{
+        background-image: url(uu.webp);
+        height:550px;
+        width:90%;
+        background-size: cover;
+        margin-left: 80px;
+        margin-top:10px;
+       
+    }
+    .hh{
+        height:68px;
+        width:1328px;
+        font-size: 32px;
+         padding: 0px 0px 28px; 
+        color:#353443;
+        margin-left:10px;
+        display: flex;
+    }
+     .content-box{
+       
+        margin-left:10px;
+ 
+        
+    }
+     
+     .search-select{
+        height: 41.6px;
+        width:312px;
+      text-align: center;
+      font-size: 16px;
+      color: #8b8b8b;
+      border-radius: 5px;
+      
+     }
+     .content-box2{
+        height: 300px;
+        width:312px; 
+        border:1px solid #616173;
+        border-radius:5px;
+        margin-top:16px;
+     }
+     .sc{
+    color: #353443;
+    font-size: 16px;
+    margin:16px 24px 4px;
+
+     }
+     .content-box2 p{
+        color:#8b8b8b;
+        font-size:12px;
+        
+       
+        
+     }
+     .lo{
+      
+        font-size:18px;
+        padding:18px 24px
+
+     }
+.fa-solid {
+    margin-left: 10px;
+    height:16px;
+    width:16px;
+} 
+
+
+/* .personlogo
+{
+    height:16px;
+    width:16px;
+} */
+
+
+.person-line{
+    font-size: 16px;
+}
+
+
+
+.ok{
+    display:flex
+}
+
+/* <!-- box --> */
+.adds{
+ display:flex;
+    justify-content: space-evenly;
+   
+  
+    margin-left: 10px;
+    width:100%
+    }
+    
+    
+    
+    .box{
+        /* border:2px solid black; */
+        height:350px;
+        width:250px;
+    background-color:white;
+    /* text-align: center;  */
+    /* padding: 20px 0px 15px;
+    margin-bottom: 50px; */
+    border:1px solid #616173;
+    border-radius :5px;
+   
+    
+    
+    }
+    
+    .box-image{
+        height: 260px;
+        width:250px;
+     background-size: cover; 
+   
+    }
+
+    .under{
+        font-size: 16px;
+        color:#8b8b8b;
+        height:20px;
+        width:203px;
+    }
+    .first{
+        font-size: 24px;
+        display:flex;
+        padding:12px 0px 0px;
+    }
+    .dd{
+        font-size: 12px;
+        color:#8b8b8b;
+    }
+    
